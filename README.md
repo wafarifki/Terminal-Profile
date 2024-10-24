@@ -2,6 +2,7 @@
 Profile website keren bertema terminal mirip CMD windows. use for learn.
 
 # Demo 
+<a href="https://wafarifki.github.io/Terminal-Profile/" target="_blank">https://wafarifki.github.io/Terminal-Profile/</a>
 
 # Let's connect with me!
 <p>
